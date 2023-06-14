@@ -1,0 +1,12 @@
+Group_expenses/creation_time,Group_expenses/creator,Group_expenses/group_name,Group_expenses/total_amount,Group_expenses/state,Group_expenses/title,Group_expenses/items/0/amount,Group_expenses/items/0/state,Group_expenses/items/0/payer,Group_expenses/items/1/amount,Group_expenses/items/1/state,Group_expenses/items/1/payer
+2023-06-14T04:16:19.913401Z,Supriti R,we live together ,"₹2,980.00",ONGOING,,"₹1,490.00",UNPAID,Shreya Akurathi,"₹1,490.00",PAID_RECEIVED,Supriti R
+2023-05-31T01:42:26.570576Z,Supriti R,we live together ,"₹1,400.00",COMPLETED,,₹700.00,PAID_RECEIVED,Shreya Akurathi,₹700.00,PAID_RECEIVED,Supriti R
+2023-05-09T09:39:15.157081Z,Supriti R,we live together ,"₹2,489.00",COMPLETED,,"₹1,244.50",PAID_RECEIVED,Shreya Akurathi,"₹1,244.50",PAID_RECEIVED,Supriti R
+2023-04-10T11:28:59.360610Z,Supriti R,we live together ,"₹1,939.00",COMPLETED,,₹969.50,PAID_RECEIVED,Shreya Akurathi,₹969.50,PAID_RECEIVED,Supriti R
+2023-03-22T15:27:59.117488Z,Supriti R,we live together ,₹40.00,COMPLETED,pepsi sexy,₹20.00,PAID_RECEIVED,Supriti R,₹20.00,PAID_RECEIVED,Shreya Akurathi
+2023-03-22T15:27:22.041056Z,Supriti R,we live together ,₹60.00,COMPLETED,khaana,₹30.00,PAID_RECEIVED,Shreya Akurathi,₹30.00,PAID_RECEIVED,Supriti R
+2023-03-22T15:27:00.111296Z,Supriti R,we live together ,₹200.00,COMPLETED,petrol,₹100.00,PAID_RECEIVED,Shreya Akurathi,₹100.00,PAID_RECEIVED,Supriti R
+2023-03-22T15:26:41.025302Z,Supriti R,we live together ,₹400.00,COMPLETED,,₹200.00,PAID_RECEIVED,Shreya Akurathi,₹200.00,PAID_RECEIVED,Supriti R
+2023-03-22T15:26:24.444738Z,Supriti R,we live together ,₹50.00,COMPLETED,,₹25.00,PAID_RECEIVED,Shreya Akurathi,₹25.00,PAID_RECEIVED,Supriti R
+2023-02-09T07:28:29.870734Z,Shreya Akurathi,we live together ,₹95.00,COMPLETED,,₹47.50,PAID_RECEIVED,Supriti R,₹47.50,PAID_RECEIVED,Shreya Akurathi
+2023-02-06T06:40:30.534Z,Supriti R,we live together ,₹38.78,COMPLETED,,₹19.39,PAID_RECEIVED,Supriti R,₹19.39,PAID_RECEIVED,Shreya Akurathi
